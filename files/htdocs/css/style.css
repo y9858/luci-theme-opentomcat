@@ -124,7 +124,7 @@ html, body {
     font-family: Roboto, 'Microsoft Yahei' !important;
     font-size:10pt;
     line-height: 150%;
-    color:##f8f9fe;
+    color:#76838f;
     /*min-width: 960px;*/
 }
 
@@ -314,7 +314,7 @@ footer > a {
 }
 
 .main-right > #maincontent {
-    background-color: ##f8f9fe;
+    background-color: #f8f9fe;
 }
 
 .pull-right {
@@ -508,7 +508,7 @@ header > .container > a[class="brand"]:after {
 
 .main > .main-left > .nav > .slide > a[data-title="System"]:before {
     content: "\e01c";
-    color: #FF00FF!important;
+    color: #fb6340!important;
 }
 
 .main > .main-left > .nav > .slide > a[data-title="Network"]:before {
@@ -559,7 +559,7 @@ header > .container > a[class="brand"]:after {
 .main > .main-left > .nav > li > a[data-title="Logout"] {
     padding-left:36px;
     line-height:40px;
-    color: #9400D3!important;
+    color: #2E8B57!important;
 }
 
 .main > .main-left > .nav > li > a[data-title="Logout"]:before {
@@ -615,8 +615,7 @@ header > .container > a[class="brand"]:after {
 
 .main > .main-left > .nav > li:hover,
 .main > .main-left > .nav > .slide > .menu:hover {
-color: #FF99CC;
-	background: #CCFFFF;
+	background: #172B4D;
 
 
 }
@@ -672,7 +671,7 @@ color: #FF99CC;
 
 .main > .main-left > .nav > .slide > .slide-menu > .active > a {
  /* border-left: #ffffff 15px solid; */
-  color: #FFFF00;
+    color: white;
 
 
 }
@@ -836,7 +835,7 @@ fieldset > .table > .tr:nth-of-type(odd) {
     width: 100% !important;
     border-color:#ccc !important;
     height:20px !important;
-    color:#76838f !important;
+    color:#bcdeb8 !important;
 }
 
 #swaptotal > div > div,
@@ -848,7 +847,7 @@ fieldset > .table > .tr:nth-of-type(odd) {
 #memcache > div > div,
 #memtotal > div > div {
     height: 1.4rem !important;
-    background-color: #44CEF6!important;
+    background-color: #bcdeb8 !important;
 }
 
 /* fix multiple table */
@@ -1088,7 +1087,6 @@ form.inline + form.inline,
 .cbi-map-descr {
     margin-bottom:10px;
     padding-left:5px;
-    color: #03A9F4  ;
     font-size: small;
 }
 
