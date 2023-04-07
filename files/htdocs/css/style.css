@@ -679,13 +679,13 @@ header > .container > a[class="brand"]:after {
 .main > .main-left > .nav > .slide > .slide-menu > li:hover {
        /* border-left: #ffffff 3px solid; */
 	color: white;
-	background: #366CD9;
+	background: #172B4D;
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > .active:hover {
    /* border-left: #ffffff 3px solid; */
 	color: white;
-	background-color: #00468C;
+	background-color: #172B4D;
 	cursor: hand;
 }
 
