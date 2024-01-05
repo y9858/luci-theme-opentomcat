@@ -559,7 +559,7 @@ header > .container > a[class="brand"]:after {
 .main > .main-left > .nav > li > a[data-title="Logout"] {
     padding-left:36px;
     line-height:40px;
-    color: #2E8B57!important;
+    color: #008080!important;
 }
 
 .main > .main-left > .nav > li > a[data-title="Logout"]:before {
